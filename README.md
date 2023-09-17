@@ -1,4 +1,4 @@
-# Maze project
+# Maze Project
 
 ## Desciption
 
