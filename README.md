@@ -2,7 +2,7 @@
 
 ## About 
 
-   * The spark for this game ignited during the intro to the portfolio projects and made me start reminiscing about childhood. I recollected our love for puzzles, the thrilling joy of solving mazes in magazines, and the frustration when hitting a dead-end. As I dived into these memories, I felt a strong urge to rekindle that experience, but this time with a digital twist. This project isn't just about navigating mazes; it's about recapturing those childhood joys and sharing them with the world. It took me numerous brainstorming sessions, and countless testing hours to get this game to you. And while this serves as my Portfolio Project for Holberton School, its roots lie in nostalgia.
+The spark for this game ignited during the intro to the portfolio projects and made me start reminiscing about childhood. I recollected our love for puzzles, the thrilling joy of solving mazes in magazines, and the frustration when hitting a dead-end. As I dived into these memories, I felt a strong urge to rekindle that experience, but this time with a digital twist. This project isn't just about navigating mazes; it's about recapturing those childhood joys and sharing them with the world. It took me numerous brainstorming sessions, and countless testing hours to get this game to you. And while this serves as my Portfolio Project for Holberton School, its roots lie in nostalgia.
 
 ## Desciption
 
