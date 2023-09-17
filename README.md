@@ -47,7 +47,7 @@ The goal of this project is to create a game in 3D using raycasting. Ray-casting
 
 ![door_open](/images/maze33.png)
 
-## Content of the Maze project
+## Content of The Maze Project
 | File name       | Description |
 ---               | ---    |
 main.c            | a c file which contains the main method and the display function
