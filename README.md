@@ -1,5 +1,9 @@
 # Maze Project
 
+## About 
+
+   * The spark for this game ignited during the intro to the portfolio projects and made me start reminiscing about childhood. I recollected our love for puzzles, the thrilling joy of solving mazes in magazines, and the frustration when hitting a dead-end. As I dived into these memories, I felt a strong urge to rekindle that experience, but this time with a digital twist. This project isn't just about navigating mazes; it's about recapturing those childhood joys and sharing them with the world. It took me numerous brainstorming sessions, and countless testing hours to get this game to you. And while this serves as my Portfolio Project for Holberton School, its roots lie in nostalgia.
+
 ## Desciption
 
 The goal of this project is to create a game in 3D using raycasting. Ray-casting is a technique that transforms a limited form of data (a very simplified map or floor plan) into a 3D projection by tracing rays from the viewpoint into the viewing volume.
@@ -18,7 +22,7 @@ The goal of this project is to create a game in 3D using raycasting. Ray-casting
 
 ![door_open](/images/maze44.png)
 
-## How the project works
+## How It Works
    * The project first creates the window and initializes the game with some default value
    * It then displays the map and the game zone to the user
    * The user uses keys (like w, a, s, d, e & arrow keys) to move & rotate the player
@@ -52,5 +56,3 @@ drow.c            | a c file which contains methods used to draw a map, player, 
 map.c             | a c file which defines a map coordinates and method to access them
 texture           | a c file which defines a texture value and method to access them
 window            | a c file which contains method used to define the window and input keyboards
-
----
